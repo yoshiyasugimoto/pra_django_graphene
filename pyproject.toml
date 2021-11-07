@@ -8,6 +8,7 @@ authors = ["yoshiyasugimoto"]
 python = "^3.9"
 Django = "^3.2.9"
 graphene-django = "^2.15.0"
+django-filter = "^21.1"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
